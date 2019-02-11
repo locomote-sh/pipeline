@@ -4,8 +4,8 @@
 *.un~
 Session.vim
 .netrwhist
-
 *~
+
 # Logs
 logs
 *.log

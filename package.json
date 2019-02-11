@@ -19,7 +19,7 @@
     "homepage": "https://github.com/locomote-sh/pipeline#readme",
     "dependencies": {
         "@locomote.sh/tinytemper": "git+https://github.com/locomote-sh/tinytemper.git",
-        "through": "^2.3.8",
-        "@locomote.sh/utils": "git+https://github.com/locomote-sh/utils.git"
+        "@locomote.sh/utils": "git+https://github.com/locomote-sh/utils.git",
+        "through": "^2.3.8"
     }
 }
