@@ -1,0 +1,25 @@
+{
+    "name": "@locomote.sh/pipeline",
+    "version": "1.0.0",
+    "description": "A caching data processing pipeline.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/locomote-sh/pipeline.git"
+    },
+    "keywords": [],
+    "author": "Julian Goacher",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/locomote-sh/pipeline/issues"
+    },
+    "homepage": "https://github.com/locomote-sh/pipeline#readme",
+    "dependencies": {
+        "locomote.sh/tinytemper": "git+https://github.com/locomote-sh/tinytemper.git",
+        "through": "^2.3.8",
+        "locomote.sh/utils": "git+https://github.com/locomote-sh/utils.git"
+    }
+}
